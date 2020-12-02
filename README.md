@@ -5,20 +5,11 @@ RAPS is a skeletons project for starting point of your RESTful API project.
 RAPS contains several language. 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone or download ZIP
 
+For golang :
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+go mod vendor
 ```
 
 ## Contributing
